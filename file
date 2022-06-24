@@ -1,0 +1,13 @@
+/*const ese = [
+    {id:'1', name:'blessing', age:'25', profession:'banker'},
+    {id:'2', name:'Ese', age:'30', profession:'lawyer'}, 
+    {id:'3', name:'obie', age:'35', profession:'cook'},
+    {id:'4', name:'favour', age:'40', profession:'footballer'},
+
+];
+ const datas = ese.map(function(user){
+return user.id;
+
+
+ });
+ console.log(datas)*/
